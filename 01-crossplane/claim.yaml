@@ -11,5 +11,5 @@ metadata:
     argocd.argoproj.io/sync-wave: "3"
 spec:
   parameters:
-    dbName: appdb-v2
+    dbName: appdb-v3
     owner: platform
